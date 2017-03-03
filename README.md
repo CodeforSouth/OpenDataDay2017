@@ -1,6 +1,6 @@
 # Miami Open Data Day 2017
 
-## March 4 @ @ Cambridge Innovation Center, Miami-Dade College 
+## March 4 @Cambridge Innovation Center
 
 - [:rocket: Register as a Participant](https://www.eventbrite.com/e/miami-open-data-day-2017-climate-change-and-sea-level-rise-tickets-32379091735)
 - [:bulb: Browse and Discuss Projects](https://github.com/Code-for-Miami/OpenDataDay2017/issues)
