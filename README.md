@@ -43,6 +43,10 @@ http://sealevel.climatecentral.org/
 ### Miami Dade Climate & Sustainability Site
 http://www.miamidade.gov/green/
 
+## Presentation Slides Example 
+
+- [:computer: Please copy and paste into your own presentation](https://docs.google.com/presentation/d/1IKsq7ibQmzMiYRsv_AFuXrhgaLqNDfM-bFfxpRSY-aE/edit#slide=id.g1ec696d39c_0_35)
+
 
 ## Wondering how to propose or discuss your project ideas?
 
