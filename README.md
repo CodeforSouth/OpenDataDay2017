@@ -2,7 +2,7 @@
 
 ## March 4 @ The IDEA Center, Miami-Dade College 
 
-- [:rocket: Register as a Participant]https://www.eventbrite.com/e/miami-open-data-day-2017-climate-change-and-sea-level-rise-tickets-32379091735)
+- [:rocket: Register as a Participant](https://www.eventbrite.com/e/miami-open-data-day-2017-climate-change-and-sea-level-rise-tickets-32379091735)
 - [:bulb: Browse and Discuss Projects](https://github.com/Code-for-Miami/OpenDataDay2017/issues)
 - [:star2: Propose a Project](https://github.com/Code-for-Miami/OpenDataDay2017/issues/new)
 
