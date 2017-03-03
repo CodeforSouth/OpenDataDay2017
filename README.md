@@ -1,52 +1,55 @@
-# OpenDataDay2017
-Code For Miami's Open Data Day 2017 Projects
+# Miami Open Data Day 2017
 
-# Challenges
+## March 4 @ The IDEA Center, Miami-Dade College 
 
-1. Climate Resilience Toolkit: https://github.com/Code-for-Miami/OpenDataDay2017/issues/1
+- [:rocket: Register as a Participant]https://www.eventbrite.com/e/miami-open-data-day-2017-climate-change-and-sea-level-rise-tickets-32379091735)
+- [:bulb: Browse and Discuss Projects](https://github.com/Code-for-Miami/OpenDataDay2017/issues)
+- [:star2: Propose a Project](https://github.com/Code-for-Miami/OpenDataDay2017/issues/new)
 
-2. Sea Level Rise Data Collection Site: https://github.com/Code-for-Miami/OpenDataDay2017/issues/2
+If you need help or have some specific questions, email co-captains [Julie](mailto:juliekramer@codeforamerica.org), [Chris](mailto:cyberstrike@gmail.com), or [Danielle](mailto:dungermann@codeforamerica.org). You can also [invite yourself](http://cfm-invite.herokuapp.com) to the [Code for Miami Slack group](http://codeformiami.slack.com)! We will be on channel `#opendataday`.
 
-3. Sea Level Rise Data Visualization: https://github.com/Code-for-Miami/OpenDataDay2017/issues/3
+## Wondering how to propose or discuss your project ideas?
 
-4. Sea Level Rise Digital Storytelling: https://github.com/Code-for-Miami/OpenDataDay2017/issues/4
+[GitHub Issues](https://guides.github.com/features/issues/) works just like any other commenting system on the Internet:
 
-5. Digital Training for Citizens Reporters: https://github.com/Code-for-Miami/OpenDataDay2017/issues/5
+- First, you'll need to [create an account](https://github.com/join).
+- Then you have two options: (1) comment on an existing idea (a.k.a. "issue"), or (2) create a new idea.
 
-6. Climate Change Iconography: https://github.com/Code-for-Miami/OpenDataDay2017/issues/6
+If you see an idea that you're interested in, click on it, read the discussion and then add your thoughts to the bottom of the discussion thread. If you don't see the idea you have in mind, [add a new one](https://github.com/miami-ndoch/2016-project-proposals/issues/new). Someone from the Miami NDOCH Staff will respond with some questions or feedback.
 
-# Data
+*Here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4) on using Github Issues for discussion.*
 
-Climate Change Toolkit
+## Here is some data we recommend you work with.
+
+### Climate Change Toolkit
 https://toolkit.climate.gov/ 
 
-Miami Dade County GIS
+### Miami Dade County GIS
 http://gis-mdc.opendata.arcgis.com/
 
-NOAA Data Tools
+### NOAA Data Tools
 https://www.ncdc.noaa.gov/cdo-web/datatools 
 
-NOAA Sea Level Rise Data
+### NOAA Sea Level Rise Data
 https://coast.noaa.gov/digitalcoast/tools/slr
 
-Catalog of Datasets in Florida
+### Catalog of Datasets in Florida
 https://catalog.data.gov/dataset?tags=florida 
 
-Climate Change Toolkit for Miami
+### Climate Change Toolkit for Miami
 https://toolkit.climate.gov/climate-explorer2/location.php?county=Miami-Dade+County&city=Miami,%20FL&fips=12086&lat=25.7616798&lon=-80.19179020000001 
 
-Graphs and maps of observed and modeled data for Miami-Dade County. 
-
+### Graphs and maps of observed and modeled data for Miami-Dade County
 https://toolkit.climate.gov/climate-explorer2/location.php?county=Miami-Dade+County&city=Miami,%20FL&fips=12086&lat=25.7616798&lon=-80.19179020000001 
 
-Worldwide Climate Change Data 
+### Worldwide Climate Change Data 
 http://data.worldbank.org/topic/climate-change 
 
-NASA’s Dedicated Climate Change Site
+### NASA’s Dedicated Climate Change Site
 https://climate.nasa.gov/
 
-Sea Level Rise Visualizations
+### Sea Level Rise Visualizations
 http://sealevel.climatecentral.org/
 
-Miami Dade Climate & Sustainability Site
+### Miami Dade Climate & Sustainability Site
 http://www.miamidade.gov/green/
