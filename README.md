@@ -8,15 +8,15 @@ To have an open discussion on the effects and problems of climate change and sea
 
 ### Who can participate in Open Data Day?
 
-  We need you the most. If it wasn’t for you, this whole thing wouldn’t be happening. 
+  We need you the most. If it wasn’t for you, this whole thing wouldn’t be happening.
   We need ideas, cheerleaders, and friends to spread the word.
-  
+
 **Public Servants**
-  
+
   Your input and context can help us to make government data better. Come converse and learn.
-  
+
 **Statisticians**
-  
+
   Use your skills to help understand the data and get important insights from it.
 
 **Developers**
@@ -25,7 +25,7 @@ To have an open discussion on the effects and problems of climate change and sea
 
 **Designers**
 
-  Help us make open data relatable, simple and accesible.
+  Help us make open data relatable, simple and accessible.
 
 ## Schedule
 
@@ -56,10 +56,16 @@ Each group will present their progress, information discovered and supplied for 
 
 If you need help or have some specific questions, email co-captains [Julie](mailto:juliekramer@codeforamerica.org), [Chris](mailto:cyberstrike@gmail.com), or [Danielle](mailto:dungermann@codeforamerica.org). You can also [invite yourself](http://cfm-invite.herokuapp.com) to the [Code for Miami Slack group](http://codeformiami.slack.com)! We will be on channel `#opendataday`.
 
+### Guides
+
+* [Hack Projects Guide](./guides/hacking.md)
+
+* [Climate Change Toolkit Guide](./guides/hacking.md) 
+
 
 ## Here is some data we recommend you work with:
 
- * [Climate Change Toolkit](https://toolkit.climate.gov/) 
+ * [Climate Change Toolkit](https://toolkit.climate.gov/)
  * [Miami Dade County GIS](http://gis-mdc.opendata.arcgis.com/)
  * [NOAA Data Tools](https://www.ncdc.noaa.gov/cdo-web/datatools)
  * [NOAA Sea Level Rise Data](https://coast.noaa.gov/digitalcoast/tools/slr)
@@ -71,7 +77,7 @@ If you need help or have some specific questions, email co-captains [Julie](mail
  * [Sea Level Rise Visualizations](http://sealevel.climatecentral.org/)
  * [Miami Dade Climate & Sustainability Site](http://www.miamidade.gov/green/)
 
-## Presentation Information 
+## Presentation Information
 
 - Length: 5 mins
 - [:computer: Please copy and paste into your own presentation](https://docs.google.com/presentation/d/1IKsq7ibQmzMiYRsv_AFuXrhgaLqNDfM-bFfxpRSY-aE/edit?usp=sharing)
