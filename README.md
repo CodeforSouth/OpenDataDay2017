@@ -11,22 +11,41 @@ To have an open discussion on the effects and problems of climate change and sea
   We need you the most. If it wasn’t for you, this whole thing wouldn’t be happening. 
   We need ideas, cheerleaders, and friends to spread the word.
   
-- Public Servants
+**Public Servants**
   
   Your input and context can help us to make government data better. Come converse and learn.
   
-- Statisticians
+**Statisticians**
   
   Use your skills to help understand the data and get important insights from it.
 
-- Developers
+**Developers**
 
   Use your skills to develop solutions that can help solve important societal issues.
 
-- Designers
+**Designers**
 
   Help us make open data relatable, simple and accesible.
 
+## Schedule
+
+**09:00** — Breakfast
+
+**10:00** — Opening Remarks
+
+**11:00** — Start Projects
+
+**12:30** — Lunch
+
+**01:00** — Resume
+
+**03:00** — Prep Presentations
+
+Each group will present their progress, information discovered and supplied for their respect coverage areas.
+
+**04:00** — Presentations
+
+**04:30** — Closing Remarks / END
 
 
 ## March 4 @Cambridge Innovation Center
