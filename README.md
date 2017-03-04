@@ -1,5 +1,34 @@
 # Miami Open Data Day 2017
 
+### What is Open Data Day?
+Open Data Day is an annual celebration of open data all over the world. For the fifth time in history, groups from around the world will create local events on the day where they will use open data in their communities. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society.
+
+### What is our goal today?
+To have an open discussion on the effects and problems of climate change and sea level rise in Miami. We want to talk to you about what we have accomplished so far, and we want your ideas on how we can do better.
+
+### Who can participate in Open Data Day?
+
+  We need you the most. If it wasn’t for you, this whole thing wouldn’t be happening. 
+  We need ideas, cheerleaders, and friends to spread the word.
+  
+- Public Servants
+  
+  Your input and context can help us to make government data better. Come converse and learn.
+  
+- Statisticians
+  
+  Use your skills to help understand the data and get important insights from it.
+
+- Developers
+
+  Use your skills to develop solutions that can help solve important societal issues.
+
+- Designers
+
+  Help us make open data relatable, simple and accesible.
+
+
+
 ## March 4 @Cambridge Innovation Center
 
 - [:rocket: Register as a Participant](https://www.eventbrite.com/e/miami-open-data-day-2017-climate-change-and-sea-level-rise-tickets-32379091735)
