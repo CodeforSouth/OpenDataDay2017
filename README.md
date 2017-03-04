@@ -1,4 +1,4 @@
-![Open Data Day Logo](filesystem:https://docs.google.com/persistent/docs/documents/1iZ3_fqYxFX7ZF7m2BabwPsFFF8uwvvOA_C7i4ON6V7U/image/1uj_JDyCkPoC0uEMf1lfD53Lxc75m5m0mtqROJ5A)
+![Open Data Day Logo](https://lh5.googleusercontent.com/d3VHLYLZP3K4V4DsPLvXqxX7Ac56ioXquHI0NMAFJojprd8hTduw6oESt7m9po4DrtnSiGCF2Zt06vk=w2560-h1452)
 
 # Miami Open Data Day 2017
 
