@@ -58,9 +58,9 @@ If you need help or have some specific questions, email co-captains [Julie](mail
 
 ### Guides
 
-* [Hack Projects Guide](./guides/hacking.md)
+* [Hack Projects Guide](https://github.com/Code-for-Miami/OpenDataDay2017/blob/master/guides/Hack.md)
 
-* [Climate Change Toolkit Guide](./guides/hacking.md) 
+* [Climate Change Toolkit Guide](https://github.com/Code-for-Miami/OpenDataDay2017/blob/master/guides) 
 
 
 ## Here is some data we recommend you work with:
