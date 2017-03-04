@@ -26,13 +26,6 @@ If you need help or have some specific questions, email co-captains [Julie](mail
 ## Presentation Information 
 
 - Length: 5 mins
-* This should cover: 
-- What’s the problem you’re looking to solve
-- What was available to you to help solve it
-- Solution, or steps taken towards the solution
-- Biggest thing you learned in your group-- can be climate or data-gathering related
-- Next steps 
-
 - [:computer: Please copy and paste into your own presentation](https://docs.google.com/presentation/d/1IKsq7ibQmzMiYRsv_AFuXrhgaLqNDfM-bFfxpRSY-aE/edit?usp=sharing)
 
 ## Wondering how to propose or discuss your project ideas?
