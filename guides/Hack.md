@@ -31,7 +31,9 @@ If you have chose to hack on a project you are in the right place.
 ## Challenges
 
 [Digital Guide For Citizen Reporters](https://github.com/Code-for-Miami/OpenDataDay2017/issues/5)
+
 [Sea Level Rise Data Visualization](https://github.com/Code-for-Miami/OpenDataDay2017/issues/3)
+
 [Sea Level Rise Data Collection Website](https://github.com/Code-for-Miami/OpenDataDay2017/issues/2)
 
 ## Visualization and Chart Libraries
