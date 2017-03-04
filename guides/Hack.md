@@ -8,23 +8,23 @@ If you have chose to hack on a project you are in the right place.
 2. In the challenge you are working on, add a comment with a link to your repo.
 3. Drop this info into your README.
 
-```
-![Open Data Day Logo](https://lh5.googleusercontent.com/d3VHLYLZP3K4V4DsPLvXqxX7Ac56ioXquHI0NMAFJojprd8hTduw6oESt7m9po4DrtnSiGCF2Zt06vk=w2560-h1452)
+  ```
+  ![Open Data Day Logo](https://lh5.googleusercontent.com/d3VHLYLZP3K4V4DsPLvXqxX7Ac56ioXquHI0NMAFJojprd8hTduw6oESt7m9po4DrtnSiGCF2Zt06vk=w2560-h1452)
 
-# Miami Open Data Day 2017
+  # Miami Open Data Day 2017
 
-## {{Challenge Name Here}}
+  ## {{Challenge Name Here}}
 
-{{Challenge Description Here}}
+  {{Challenge Description Here}}
 
-## Info
+  ## Info
 
-{{Your project information}}
+  {{Your project information}}
 
-## Team Members
+  ## Team Members
 
-- {{Name}}({{Github Profile}})
-```
+  - {{Name}}({{Github Profile}})
+  ```
 
 4. Get building.
 
