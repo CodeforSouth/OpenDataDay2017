@@ -8,7 +8,7 @@ If you need help or have some specific questions, email co-captains [Julie](mail
 
 ### Guides
 
-* [Getting Started with Open Data Day 2017 ](https://docs.google.com/document/d/1GnHgqcp_uCoGVXs1nHjqZ3WbMSLqb5lEBmZ9LbDzMNU/edit#)
+* [Getting Started with Open Data Day 2017 ](https://docs.google.com/document/d/1GnHgqcp_uCoGVXs1nHjqZ3WbMSLqb5lEBmZ9LbDzMNU/edit?usp=sharing)
 
 * [Hack Projects Guide](https://github.com/Code-for-Miami/OpenDataDay2017/blob/master/guides/Hack.md)
 
