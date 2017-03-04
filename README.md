@@ -1,5 +1,3 @@
-![Open Data Day Logo](https://lh5.googleusercontent.com/d3VHLYLZP3K4V4DsPLvXqxX7Ac56ioXquHI0NMAFJojprd8hTduw6oESt7m9po4DrtnSiGCF2Zt06vk=w2560-h1452)
-
 # Miami Open Data Day 2017
 
 ### What is Open Data Day?
