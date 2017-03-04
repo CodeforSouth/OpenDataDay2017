@@ -1,3 +1,5 @@
+![Open Data Day Logo](filesystem:https://docs.google.com/persistent/docs/documents/1iZ3_fqYxFX7ZF7m2BabwPsFFF8uwvvOA_C7i4ON6V7U/image/1uj_JDyCkPoC0uEMf1lfD53Lxc75m5m0mtqROJ5A)
+
 # Miami Open Data Day 2017
 
 ### What is Open Data Day?
@@ -60,7 +62,7 @@ If you need help or have some specific questions, email co-captains [Julie](mail
 
 * [Hack Projects Guide](https://github.com/Code-for-Miami/OpenDataDay2017/blob/master/guides/Hack.md)
 
-* [Climate Change Toolkit Guide](https://github.com/Code-for-Miami/OpenDataDay2017/blob/master/guides/ClimateToolKit.md) 
+* [Climate Change Toolkit Guide](https://github.com/Code-for-Miami/OpenDataDay2017/blob/master/guides/ClimateToolKit.md)
 
 
 ## Here is some data we recommend you work with:
