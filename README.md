@@ -6,14 +6,13 @@
 
 If you need help or have some specific questions, email co-captains [Julie](mailto:juliekramer@codeforamerica.org), [Chris](mailto:cyberstrike@gmail.com), or [Danielle](mailto:dungermann@codeforamerica.org). You can also [invite yourself](http://cfm-invite.herokuapp.com) to the [Code for Miami Slack group](http://codeformiami.slack.com)! We will be on channel `#opendataday`.
 
-### Guides
+### :book: Guides
 
-* [Getting Started with Open Data Day 2017 ](https://docs.google.com/document/d/1GnHgqcp_uCoGVXs1nHjqZ3WbMSLqb5lEBmZ9LbDzMNU/edit?usp=sharing)
+* [Getting Started with Open Data Day 2017](https://docs.google.com/document/d/1GnHgqcp_uCoGVXs1nHjqZ3WbMSLqb5lEBmZ9LbDzMNU/edit?usp=sharing)
 
 * [Hack Projects Guide](https://github.com/Code-for-Miami/OpenDataDay2017/blob/master/guides/Hack.md)
 
 * [Climate Change Toolkit Guide](https://github.com/Code-for-Miami/OpenDataDay2017/blob/master/guides/ClimateToolKit.md)
-
 
 ## Here is some data we recommend you work with:
 
@@ -30,7 +29,7 @@ If you need help or have some specific questions, email co-captains [Julie](mail
  * [Miami Dade Climate & Sustainability Site](http://www.miamidade.gov/green/)
  * [Regional Climate Action Plan](http://www.southeastfloridaclimatecompact.org//wp-content/uploads/2014/09/regional-climate-action-plan-final-ada-compliant.pdf)
  * [Compact Unified Sea Level Rise Projection](http://www.southeastfloridaclimatecompact.org/wp-content/uploads/2015/10/2015-Compact-Unified-Sea-Level-Rise-Projection.pdf)
- 
+
 
 ## Schedule
 
